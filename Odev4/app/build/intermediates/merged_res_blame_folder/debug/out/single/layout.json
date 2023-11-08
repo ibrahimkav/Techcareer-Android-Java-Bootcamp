@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.odev4.app-mergeDebugResources-42:/layout/fragment_sayfa_b.xml",
+        "source": "com.example.odev4.app-main-45:/layout/fragment_sayfa_b.xml"
+    },
+    {
+        "merged": "com.example.odev4.app-mergeDebugResources-42:/layout/fragment_sayfa_x.xml",
+        "source": "com.example.odev4.app-main-45:/layout/fragment_sayfa_x.xml"
+    },
+    {
+        "merged": "com.example.odev4.app-mergeDebugResources-42:/layout/fragment_anasayfa.xml",
+        "source": "com.example.odev4.app-main-45:/layout/fragment_anasayfa.xml"
+    },
+    {
+        "merged": "com.example.odev4.app-mergeDebugResources-42:/layout/activity_main.xml",
+        "source": "com.example.odev4.app-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.odev4.app-mergeDebugResources-42:/layout/fragment_sayfa_a.xml",
+        "source": "com.example.odev4.app-main-45:/layout/fragment_sayfa_a.xml"
+    },
+    {
+        "merged": "com.example.odev4.app-mergeDebugResources-42:/layout/fragment_sayfa_y.xml",
+        "source": "com.example.odev4.app-main-45:/layout/fragment_sayfa_y.xml"
+    }
+]
