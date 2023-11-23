@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dolingo</string>
+
+    <string name="loginpagetext">best care free learn languages</string>
+
+    <string name="loginpagebuton1">Get Started</string>
+    <string name="loginpagebuton2">Already have account</string>
+
+</resources>

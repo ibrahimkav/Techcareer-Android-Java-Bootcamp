@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dolingo</string>
+
+    <string name="loginpagetext">En iyi bakım gerektirmeden dil öğrenmek</string>
+
+    <string name="loginpagebuton1">Hadi Başlayalım</string>
+    <string name="loginpagebuton2">Zaten hesabım var</string>
+
+</resources>
