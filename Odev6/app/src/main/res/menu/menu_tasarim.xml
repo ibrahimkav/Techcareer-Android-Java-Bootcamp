@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/kesfetFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/baseline_search_24"
+        android:title="Keşfet" />
+    <item
+        android:id="@+id/siparislerFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/baseline_restaurant_24"
+        android:title="Siparişlerim" />
+    <item
+        android:id="@+id/sepetFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/baseline_shopping_basket_24"
+        android:title="0,00 TL" />
+    <item
+        android:id="@+id/kampanyalarFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/baseline_card_giftcard_24"
+        android:title="Kampanya" />
+</menu>
