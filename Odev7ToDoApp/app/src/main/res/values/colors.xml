@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="statusBarRenk">#D32F2F</color>
+    <color name="arkaPlanRenk">#FFFFFF</color>
+    <color name="araçÇubuğuArkaPlanRenk">#D32F2F</color>
+    <color name="satırÖğesiArkaPlan">#E0E0E0</color>
+    <color name="açıkGri">#F5F5F5</color>
+    <color name="koyuGri">#4B4B4B</color>
+    <color name="kırmızı">#FF4646</color>
+    <color name="koyuTuruncu">#D32F2F</color>
+    <color name="turuncu">#F44336</color>
+
+
+</resources>
